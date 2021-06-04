@@ -1,0 +1,10 @@
+decorators\WebCoreDriver.class
+decorators\Driver.class
+decorators\DriverDecorator.class
+decorators\ElementDecorator.class
+decorators\WebCoreElement.class
+decorators\Browser.class
+decorators\LogElement.class
+decorators\LoggingDriver.class
+decorators\Element.class
+decorators\WebCoreDriver$1.class
